@@ -1,0 +1,42 @@
+body {
+    background-color: chocolate;
+}
+.btn {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+    border: 2px solid;
+    height: 100px;
+    width: 120px;
+    margin: 20px;
+    text-transform: capitalize;
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.purple {
+    background-color: purple;
+}
+.gold {
+    background-color: goldenrod;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
